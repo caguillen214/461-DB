@@ -1,7 +1,7 @@
 {
   "Name": "Testing File Creation",
   "URL": "./projects/example/file-images/Testing File Creation.png",
-  "Purpose": "I made a change to this file",
+  "Purpose": "Another test change for conflicts",
   "Transitions": {
     "Build Ins": {},
     "Build Outs": {}
