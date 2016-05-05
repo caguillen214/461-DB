@@ -92,5 +92,25 @@
     ],
     "build": []
   },
-  "existsHash": {}
+  "existsHash": {
+    "input": {
+      "FirstName": 0,
+      "LastName": 1,
+      "GetStarted": 2,
+      "Email": 3,
+      "TestingToCheck": 3
+    },
+    "output": {
+      "GetStartedSucces": 0,
+      "EmailError": 1
+    },
+    "action": {
+      "act TapGetStarted": 0
+    },
+    "asset": {},
+    "navigation": {
+      "navTapGetStarted": 0
+    },
+    "build": {}
+  }
 }
