@@ -20,7 +20,13 @@
         "key": "INPUTKEY"
       }
     ],
-    "output": [],
+    "output": [
+      {
+        "key": "OUTPUTKEY",
+        "typeOut": "Pop-Up",
+        "desc": "Shows the text inputted"
+      }
+    ],
     "action": [],
     "asset": [],
     "navigation": [],
@@ -30,7 +36,9 @@
     "input": {
       "INPUTKEY": 0
     },
-    "output": {},
+    "output": {
+      "OUTPUTKEY": 0
+    },
     "action": {},
     "asset": {},
     "navigation": {},

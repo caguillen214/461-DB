@@ -1,7 +1,7 @@
 {
   "Name": "Testing File Creation",
   "URL": "./projects/example/file-images/Testing File Creation.png",
-  "Purpose": "WOW THIS IS COOL",
+  "Purpose": "I made a change to this file",
   "Transitions": {
     "Build Ins": {},
     "Build Outs": {}
@@ -25,7 +25,13 @@
         "key": "INPUTKEY"
       }
     ],
-    "output": [],
+    "output": [
+      {
+        "key": "OUTPUTKEY",
+        "typeOut": "Pop-Up",
+        "desc": "Shows the text inputted"
+      }
+    ],
     "asset": []
   },
   "action": [],
